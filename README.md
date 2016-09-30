@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COOL Lexical Analyzer 
 Classroom Object-Oriented Language “COOL” is a programming language created by [Alexander Aiken](https://theory.stanford.edu/~aiken/ "Alexander Aiken") of Stanford to represent a subset of of Java. Cool also was influenced by Pascal and the functional programming paradigms of ML.
 
@@ -22,3 +23,7 @@ https://theory.stanford.edu/~aiken/software/cool/cool-manual.pdf
 
 For more information of the history of COOL:
 https://en.wikipedia.org/wiki/Cool_(programming_language)
+=======
+# cool-lexical-analyzer
+Lexer (aka scanner) written in Python for the COOL programming language
+>>>>>>> 51b41b3a9c428a4f5ecd226eb4aac7d601f02b91
