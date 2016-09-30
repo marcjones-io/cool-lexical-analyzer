@@ -19,7 +19,9 @@ This program is a lexical analyzer (or “scanner”) for the COOL language writ
 ### notes:
 For more information on COOL language rules and syntax:
 https://theory.stanford.edu/~aiken/software/cool/cool-manual.pdf
+
 For more information of the history of COOL:
 https://en.wikipedia.org/wiki/Cool_(programming_language)
+
 To learn more about the techniques used in this code watch Wes Weimer's PLY + Python lexing tutorial:
-https://youtu.be/pJxgoeTT2QA)
+https://youtu.be/pJxgoeTT2QA
