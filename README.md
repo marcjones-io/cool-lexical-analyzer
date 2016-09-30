@@ -25,3 +25,5 @@ https://en.wikipedia.org/wiki/Cool_(programming_language)
 
 To learn more about the techniques used in this code watch Wes Weimer's PLY + Python lexing tutorial:
 https://youtu.be/pJxgoeTT2QA
+
+Cool example files come from UVA CS Professor [Wes Weimer](http://www.cs.virginia.edu/~weimer/ "Wes Weimer")
